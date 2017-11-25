@@ -9,6 +9,7 @@ Opties:
 - |-
   Optie 1
   Optie 2
+Prijs: "€ 15000"
 ---
 
 Sl 55 amg
