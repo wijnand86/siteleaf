@@ -5,6 +5,7 @@ collections:
   autos:
     title: Autos
     output: true
+    permalink: collectie
   posts:
     title: Posts
     output: true
