@@ -2,6 +2,9 @@
 title: Siteleaf
 timezone: Europe/Amsterdam
 collections:
+  autos:
+    title: Autos
+    output: true
   posts:
     title: Posts
     output: true
