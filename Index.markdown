@@ -1,6 +1,7 @@
 ---
 title: Home
-date: 2017-11-25 21:27:00 Z
+date: 2017-11-25 22:27:00 +01:00
+permalink: Home
 ---
 
 Dit is mijn homepage.
